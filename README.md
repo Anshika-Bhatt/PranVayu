@@ -38,7 +38,7 @@ Best ROC AUC Score: 0.9548
 -Visualization tools: Matplotlib, Seaborn
 -Jupyter Notebook environment for development and experimentation
 
-## 📌 Future Improvements
+## 🦾 Future Improvements
 
 - Integrate deep learning architectures (e.g., CNNs) with imaging data to enhance predictive accuracy
 - Develop and deploy a user-friendly web-based diagnostic platform for real-time clinical use
